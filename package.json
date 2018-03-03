@@ -1,0 +1,19 @@
+{
+  "name": "f45-shopping",
+  "version": "1.0.0",
+  "description": "Shopping list exporter to trello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "inquirer": "^5.1.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "tough-cookie": "^2.3.3",
+    "trello": "^0.8.0"
+  }
+}
